@@ -95,7 +95,7 @@ A aplicação front-end deveria disparar uma mensagem genérica ao usuário ao l
 ---
 
 
-# Better Password Validator 
+# Password Validator 
 An API that validates passwords basing on some criteria.
 
 ---
